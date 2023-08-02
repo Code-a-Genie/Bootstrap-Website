@@ -9,3 +9,14 @@ body::before{
     content:'';
     height:60px;
 }
+#map{
+    width:300px;
+  
+}
+.map{
+    height: 300px;
+    border-radius: 10px;
+}
+/* .map-cont{
+    margin-left:200px;
+} */
